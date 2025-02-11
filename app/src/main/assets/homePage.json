@@ -1,0 +1,272 @@
+{
+  "status": 1,
+  "message": "success",
+  "data": {
+    "articles": [
+      {
+        "title": "GitHub Copilot - About, Features and Use Cases",
+        "subtitle": "quantifying GitHub Copilot’s impact on developer productivity and happiness",
+        "hero": "https://www.freecodecamp.org/news/content/images/size/w2000/2023/06/Screenshot-2023-06-14-at-12.42.04-PM.png",
+        "description": "<p>Have you ever wondered how coding could become even more efficient? With GitHub Copilot, you can utilise the power of AI to generate code suggestions according to your specific context</p>\n    <h2 id='1'>Features of GitHub Copilot</h2> \n  <ul> \n   <li>GitHub Copilot uses an AI model trained on a large corpus of code from publicly available sources, including code on GitHub itself. This allows it to understand and generate programming patterns, functions, and entire classes.</li> \n   <li>It assists in writing new code and contributing to existing code. The tool can suggest complete methods, boilerplate code, tests, and even complex algorithms.</li>\n  </ul>",
+        "articleId": "a2b448sq",
+        "published": "2024-12-24 13:45",
+        "category": {
+          "categoryId": "a9d7hds2",
+          "categoryName": "Technology"
+        },
+        "author": {
+          "authorId": "y7w3w242",
+          "authorImage": "",
+          "authorName": "Martic Smith"
+        },
+        "articleType": 1,
+        "tags": [
+          "Science",
+          "Technology"
+        ]
+      },
+      {
+        "title": "Has Codeium Cracked the Code for AI Assistants?",
+        "subtitle": "quantifying GitHub Copilot’s impact on developer productivity and happiness",
+        "hero": "https://www.bigdatawire.com/wp-content/uploads/2024/05/AI-copilot_shutterstock_AI-generated.jpg",
+        "description": "<p>Have you ever wondered how coding could become even more efficient? With GitHub Copilot, you can utilise the power of AI to generate code suggestions according to your specific context</p>\n    <h2 id='1'>Features of GitHub Copilot</h2> \n  <ul> \n   <li>GitHub Copilot uses an AI model trained on a large corpus of code from publicly available sources, including code on GitHub itself. This allows it to understand and generate programming patterns, functions, and entire classes.</li> \n   <li>It assists in writing new code and contributing to existing code. The tool can suggest complete methods, boilerplate code, tests, and even complex algorithms.</li>\n  </ul>",
+        "articleId": "b2n2ss92",
+        "published": "2024-12-24 13:45",
+        "category": {
+          "categoryId": "edu505",
+          "categoryName": "Education"
+        },
+        "author": {
+          "authorId": "n7232g2",
+          "authorImage": "",
+          "authorName": "James Smith"
+        },
+        "articleType": 1,
+        "tags": [
+          "Science",
+          "Technology"
+        ]
+      },
+      {
+        "title": "The Future of Tech Gadgets",
+        "subtitle": "Exploring the latest advancements in technology",
+        "hero": "https://example.com/tech-gadgets.jpg",
+        "description": "<p>Stay updated with the latest trends and gadgets in the tech industry.</p>",
+        "articleId": "c3d4e5f6",
+        "published": "2024-12-25 10:00",
+        "category": {
+          "categoryId": "tech123",
+          "categoryName": "Technology"
+        },
+        "author": {
+          "authorId": "a1b2c3d4",
+          "authorImage": "",
+          "authorName": "John Doe"
+        },
+        "articleType": 1,
+        "tags": [
+          "Gadgets",
+          "Innovation"
+        ]
+      },
+      {
+        "title": "Global Market Trends",
+        "subtitle": "Insights into the current business landscape",
+        "hero": "https://example.com/business-trends.jpg",
+        "description": "<p>Analyze the latest trends and insights in the global market.</p>",
+        "articleId": "d4e5f6g7",
+        "published": "2024-12-26 11:00",
+        "category": {
+          "categoryId": "bus456",
+          "categoryName": "Business"
+        },
+        "author": {
+          "authorId": "b2c3d4e5",
+          "authorImage": "",
+          "authorName": "Jane Doe"
+        },
+        "articleType": 1,
+        "tags": [
+          "Economy",
+          "Startups"
+        ]
+      },
+      {
+        "title": "Major Sports Events of 2024",
+        "subtitle": "Highlights and analysis of the biggest sports events",
+        "hero": "https://example.com/sports-events.jpg",
+        "description": "<p>Catch up on the major sports events and player highlights of 2024.</p>",
+        "articleId": "e5f6g7h8",
+        "published": "2024-12-27 12:00",
+        "category": {
+          "categoryId": "spo789",
+          "categoryName": "Sports"
+        },
+        "author": {
+          "authorId": "c3d4e5f6",
+          "authorImage": "",
+          "authorName": "Mike Johnson"
+        },
+        "articleType": 1,
+        "tags": [
+          "Football",
+          "Olympics"
+        ]
+      },
+      {
+        "title": "Top Movies and Music of 2024",
+        "subtitle": "A look at the best entertainment of the year",
+        "hero": "https://example.com/entertainment-2024.jpg",
+        "description": "<p>Discover the top movies and music that made waves in 2024.</p>",
+        "articleId": "f6g7h8i9",
+        "published": "2024-12-28 13:00",
+        "category": {
+          "categoryId": "ent101",
+          "categoryName": "Entertainment"
+        },
+        "author": {
+          "authorId": "d4e5f6g7",
+          "authorImage": "",
+          "authorName": "Emily Davis"
+        },
+        "articleType": 1,
+        "tags": [
+          "Movies",
+          "Music"
+        ]
+      },
+      {
+        "title": "Health Tips for 2024",
+        "subtitle": "Stay fit and healthy with these tips",
+        "hero": "https://example.com/health-tips.jpg",
+        "description": "<p>Learn about the latest health tips and fitness trends for 2024.</p>",
+        "articleId": "g7h8i9j0",
+        "published": "2024-12-29 14:00",
+        "category": {
+          "categoryId": "hea202",
+          "categoryName": "Health"
+        },
+        "author": {
+          "authorId": "e5f6g7h8",
+          "authorImage": "",
+          "authorName": "Sarah Lee"
+        },
+        "articleType": 1,
+        "tags": [
+          "Wellness",
+          "Fitness"
+        ]
+      },
+      {
+        "title": "Space Exploration Updates",
+        "subtitle": "Latest discoveries and missions in space",
+        "hero": "https://example.com/space-exploration.jpg",
+        "description": "<p>Get the latest updates on space exploration and scientific research.</p>",
+        "articleId": "h8i9j0k1",
+        "published": "2024-12-30 15:00",
+        "category": {
+          "categoryId": "sci303",
+          "categoryName": "Science"
+        },
+        "author": {
+          "authorId": "f6g7h8i9",
+          "authorImage": "",
+          "authorName": "David Brown"
+        },
+        "articleType": 1,
+        "tags": [
+          "Space",
+          "Research"
+        ]
+      },
+      {
+        "title": "Political Developments in 2024",
+        "subtitle": "An overview of the major political events",
+        "hero": "https://example.com/political-developments.jpg",
+        "description": "<p>Review the significant political developments and policies of 2024.</p>",
+        "articleId": "i9j0k1l2",
+        "published": "2024-12-31 16:00",
+        "category": {
+          "categoryId": "pol404",
+          "categoryName": "Politics"
+        },
+        "author": {
+          "authorId": "g7h8i9j0",
+          "authorImage": "",
+          "authorName": "Laura Wilson"
+        },
+        "articleType": 1,
+        "tags": [
+          "Policies",
+          "Global Affairs"
+        ]
+      },
+      {
+        "title": "E-Learning Trends in 2024",
+        "subtitle": "The future of education and online learning",
+        "hero": "https://example.com/e-learning-trends.jpg",
+        "description": "<p>Explore the latest trends and updates in the field of education and e-learning.</p>",
+        "articleId": "j0k1l2m3",
+        "published": "2025-01-01 17:00",
+        "category": {
+          "categoryId": "edu505",
+          "categoryName": "Education"
+        },
+        "author": {
+          "authorId": "h8i9j0k1",
+          "authorImage": "",
+          "authorName": "Michael Green"
+        },
+        "articleType": 1,
+        "tags": [
+          "E-Learning",
+          "Education"
+        ]
+      },
+      {
+        "title": "Climate Change and Conservation",
+        "subtitle": "Efforts to combat climate change and promote sustainability",
+        "hero": "https://example.com/climate-change.jpg",
+        "description": "<p>Learn about the latest efforts in climate change mitigation and conservation.</p>",
+        "articleId": "k1l2m3n4",
+        "published": "2025-01-02 18:00",
+        "category": {
+          "categoryId": "env606",
+          "categoryName": "Environment"
+        },
+        "author": {
+          "authorId": "i9j0k1l2",
+          "authorImage": "",
+          "authorName": "Olivia White"
+        },
+        "articleType": 1,
+        "tags": [
+          "Climate Change",
+          "Sustainability"
+        ]
+      },
+      {
+        "title": "Lifestyle Trends for 2024",
+        "subtitle": "Fashion, travel, and daily living trends",
+        "hero": "https://example.com/lifestyle-trends.jpg",
+        "description": "<p>Discover the latest trends in fashion, travel, and lifestyle for 2024.</p>",
+        "articleId": "l2m3n4o5",
+        "published": "2025-01-03 19:00",
+        "category": {
+          "categoryId": "lif707",
+          "categoryName": "Lifestyle"
+        },
+        "author": {
+          "authorId": "j0k1l2m3",
+          "authorImage": "",
+          "authorName": "Sophia Brown"
+        },
+        "articleType": 1,
+        "tags": [
+          "Fashion",
+          "Travel"
+        ]
+      }
+    ]
+  }
+}
